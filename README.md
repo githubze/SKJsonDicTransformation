@@ -1,2 +1,2 @@
-# SKJsonDicTransformation
-json和字典互转
+# Use CocoaPods
+ pod 'SKJsonDicTransformation', '~> 1.0.2'
